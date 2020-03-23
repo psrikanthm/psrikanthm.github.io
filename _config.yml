@@ -96,6 +96,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - trash
 
 
 theme: jekyll-theme-hacker
