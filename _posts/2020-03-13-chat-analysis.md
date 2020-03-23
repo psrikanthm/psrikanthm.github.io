@@ -22,14 +22,14 @@ I consider myself a curious person and ask lot of questions, taking into account
 
 Apart from the core office working hours or sleeping times, we were pretty reponsive to each other. The response times shown here are in seconds and on an average my wife has faster reponse time compared to me.
 
-A message is considered conversation starter if it sent after a pre defined time window which in this case I set as 6 hours. Finally a criteria where we have almost equal number of stats !=!
+A message is considered as conversation starter if it sent after a pre defined time window which in this case I set as 6 hours. Finally a criteria where we have almost equal number !=!.
 
 ![png](/images/chat-analysis-fig4.png)
 
 
 Next I explored the words used in conversations, I have hidden some words and emojis for privacy reasons. Below you can see our Wordclouds, after removing standard stopwords like 'and', 'or', 'the' etc.
 
-As expected there are plenty of words that characterize the millenial texting habits like "haha", "hahaha", "yup", "soo". It is interesting to see words from three different languages sprinkled all over, as we both are trilingual. My wife had the habit of using these weird short forms for words such as "bcz", "ryt", "ppl", the habit which she shredded off lately :)
+As expected there are plenty of words that characterize the millenial texting habits like "haha", "hahaha", "yup", "soo". It is interesting to see words from three different languages sprinkled all over, as we both are trilingual. My wife had the habit of using these weird short forms for words such as "bcz", "ryt", "ppl", the habit which she shredded off lately ;) 
 
 
 
@@ -49,7 +49,7 @@ This text analysis would be incomplete without looking at the emojis, especially
 
 ![png](/images/chat-analysis-fig5.png)
 
-Finally, I looked at the number of messages per day and plotted below using Plotly's cool rangeslider. Infact the only reason I examined this metric is it gives me chance for using time series plots of Plotly ;) After loading the messages in Pandas' Series indexed with timestamp, I resampled the data with a time interval of 24 hours for converting un-even spaced time series data to evenly spaced.
+Finally, I looked at the number of messages per day and plotted below using Plotly's Time Series plot.  After loading the messages in Pandas' Series indexed with timestamp, I resampled the data with a time interval of 24 hours for converting un-even spaced time series data to evenly spaced.
 
 Since we had communications outside WhatsApp texts, its hard to make lot of conclusions from this plot. Though I can identify when we had our "sparks", its also striking to see we texted each other everyday !!
 
