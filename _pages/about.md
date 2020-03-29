@@ -3,9 +3,9 @@ layout: page
 permalink: /about/
 ---
 
-The website of a company.  
-Emails in your inbox.  
 Text messages we send everyday.  
+Emails in your inbox.  
+The website of a company.  
 User manuals from 10 different Washers manufacturers in the folder *user_manuals_washer*.  
 These are some of the examples of "unstructured" data where there is no pre-defined model for the data.
 I enjoy working with this kind of data, and wanted to share any interesting findings through this blog.
