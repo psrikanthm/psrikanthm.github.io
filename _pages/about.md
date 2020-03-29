@@ -1,29 +1,25 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+The website of a company.  
+Emails in your inbox.  
+Text messages we send everyday.  
+PDFs of user manuals for Washers from 10 different manufacturers in the folder *user_manuals_washer*.  
+These are some of the examples of "unstructured" data where there is no pre-defined model for the data.
+I enjoy working with this kind of data, and wanted to share any interesting findings through this blog.
+Would be delighted to hear your approaches in dealing with unstructured data, start conversation
+at <pasumarthysrikanth@gmail.com> !  
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+&nbsp;
+&nbsp;
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+<p><img src="/images/display_picture.jpg" alt="drawing" width="200" align="left"/> Srikanth Pasumarthy lives in Toronto
+and works as Machine Learning Engineer at 
+<a href = "http://www.tealbook.com">Tealbook</a>. Where he gets to use Natural Language Processing over tons of 
+unstructed text to build 'trusted source of supplier data'.<br>
+In the early phase of his career he was a software engineer, building
+elements of cloud infrastructure for ISPs and Enterprises.<br>
+Srikanth has a Masters degree from McGill University 
+and Bachelors degree from Indian Institute of Technology Guwahati.</p>
