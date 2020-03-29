@@ -6,7 +6,7 @@ permalink: /about/
 The website of a company.  
 Emails in your inbox.  
 Text messages we send everyday.  
-PDFs of user manuals for Washers from 10 different manufacturers in the folder *user_manuals_washer*.  
+User manuals from 10 different Washers manufacturers in the folder *user_manuals_washer*.  
 These are some of the examples of "unstructured" data where there is no pre-defined model for the data.
 I enjoy working with this kind of data, and wanted to share any interesting findings through this blog.
 Would be delighted to hear your approaches in dealing with unstructured data, start conversation
