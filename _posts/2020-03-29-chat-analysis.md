@@ -2,8 +2,10 @@
 layout: post
 title:  Analysis of text conversations with my wife
 excerpt: I was recently going through some of the earliest text conversations between me and my wife. Apart from exposing our naiveness and excitement in a cute way, I found those texts insightful of our personalities and relationship. So I tried to apply what I do for my day job in analyzing the texts data and quantify the conversations.
-categories: [Text Analysis, Plotly, WhatsApp Chat processing]
+categories: [Text Analysis, Plotly, WhatsApp, Chat Analysis]
 ---
+I was recently going through some of the earliest text conversations between me and my wife. Apart from exposing our naiveness and excitement in a cute way, I found those texts insightful of our personalities and relationship. So I tried to apply what I do for my day job in analyzing the texts data and quantify the conversations.
+
 I exported the WhatsApp chat for the first two months of our relationship into text file. Since we primarily texted each other on WhatsApp this captures most of our text conversations, but doesn't include phone calls or other media.
 
 After parsing the text file and preprocessing, I looked at the quantity of the messages and the words. It seems like she sent me ~400 more messages than I did, and we overall texted ~4000 messages in two months! However, I sent those "lengthy" texts to makeup for my lesser number of messages as I used 14k words in total comared to 12k of her's.
