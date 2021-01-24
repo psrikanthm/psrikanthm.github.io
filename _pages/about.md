@@ -18,7 +18,7 @@ at <pasumarthysrikanth@gmail.com> !
 <p><img src="/images/display_picture.jpg" alt="drawing" width="200" align="left"/> Srikanth Pasumarthy lives in Toronto
 and works as Machine Learning Engineer at 
 <a href = "http://www.tealbook.com">Tealbook</a>. Where he gets to use Natural Language Processing over tons of 
-unstructed text to build 'trusted source of supplier data'.<br>
+Unstructured text to build 'trusted source of supplier data'.<br>
 In the early phase of his career he was a software engineer, building
 elements of cloud infrastructure for ISPs and Enterprises.<br>
 Srikanth has a Masters degree from McGill University 
