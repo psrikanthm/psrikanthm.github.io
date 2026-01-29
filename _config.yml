@@ -9,7 +9,7 @@ name: Structured
 Author: Srikanth Pasumarthy
 
 # Short bio or description (displayed in the header)
-description: Personal blog on exploring unstructured data and related topics
+description: Personal blog on software engineering, data science and machine learning
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: /images/display_picture.jpg
@@ -97,6 +97,7 @@ exclude:
   - README.md
   - CNAME
   - trash
+  - vendor/
 
 
 theme: jekyll-theme-hacker

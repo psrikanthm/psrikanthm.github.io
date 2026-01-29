@@ -3,23 +3,28 @@ layout: page
 permalink: /about/
 ---
 
-Text messages we send everyday.  
-Emails in your inbox.  
-The website of a company.  
-User manuals from 10 different Washers manufacturers in the folder *user_manuals_washer*.  
-These are some of the examples of "unstructured" data where there is no pre-defined model for the data.
-I enjoy working with this kind of data, and wanted to share any interesting findings through this blog.
-Would be delighted to hear your approaches in dealing with unstructured data, start conversation
-at <pasumarthysrikanth@gmail.com> !  
+I always cherished the writing process of my [Master's thesis](https://www.escholarship.mcgill.ca/concern/theses/hx11xh23p). 
 
+Here me writing again, after so much of happy life events since then that I don't even understand the equations I derived back then. 
+
+Hear me writing again, to discomfort myself in the hopes of discovering and learning.
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
 <p><img src="/images/display_picture.jpg" alt="drawing" width="200" align="left"/> Srikanth Pasumarthy lives in Toronto
-and works as Machine Learning Engineer at 
-<a href = "http://www.tealbook.com">Tealbook</a>. Where he gets to use Natural Language Processing over tons of 
-Unstructured text to build 'trusted source of supplier data'.<br>
-In the early phase of his career he was a software engineer, building
-elements of cloud infrastructure for ISPs and Enterprises.<br>
+and works as Staff Software Engineer at 
+<a href = "https://aira.io/">Aira</a>. His interest lies in the intersection of Software Engineering, Data Science and 
+Machine Learning. 
 Srikanth has a Masters degree from McGill University 
 and Bachelors degree from Indian Institute of Technology Guwahati.</p>
