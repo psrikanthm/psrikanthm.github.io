@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Anatomy of a Data Product
-excerpt: Talk about Data Product stack through the lens of personal expense classification reports
+excerpt: Exploring the Data Product stack through the lens of a personal expense classifier
 categories: [Data Product, Data Architecture, Local LLM, Personal Finance]
 ---
 
