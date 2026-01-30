@@ -5,7 +5,7 @@ permalink: /about/
 
 I always cherished the writing process of my [Master's thesis](https://www.escholarship.mcgill.ca/concern/theses/hx11xh23p). 
 
-Here me writing again, after so much of happy life events since then that I don't even understand the equations I derived back then. 
+Here me writing again, after so much of life events since then that I don't even understand the equations I derived back then. 
 
 Hear me writing again, to discomfort myself in the hopes of discovering and learning.
 

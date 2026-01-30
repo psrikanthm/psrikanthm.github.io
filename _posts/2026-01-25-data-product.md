@@ -2,7 +2,7 @@
 layout: post
 title:  Anatomy of a Data Product
 excerpt: Talk about Data Product stack through the lens of personal expense classification reports
-categories: [Data Product, Data Architecture, Local LLM, MCP Client, Personal Finance]
+categories: [Data Product, Data Architecture, Local LLM, Personal Finance]
 ---
 
 
