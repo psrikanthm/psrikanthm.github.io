@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  Snakes and Ladders - Simulation, Markov Chains, and Board Design
-excerpt: Lately, my son has been obsessed with the game of Snakes and Ladders. So much so that he made it a mission to win the game first before he does any thing else. Watching him play so many games, I got curious about the game mechanics and design. In this post I explored questions like - what is the range number of turns in a game, what a boring Snakes and Ladders board with extremely low variance would look like, and conversely, how to mathematically design a chaotic board where the variance is off the charts.
+excerpt: Lately, my son has been obsessed with the game of Snakes and Ladders. So much so that he made it a mission to win the game first before he does any thing else. Watching him play so many games, I got curious about the game mechanics and design. In this post I explored questions like - what is the expected number of turns in a game, what a boring Snakes and Ladders board with extremely low variance would look like, and conversely, how to mathematically design a chaotic board where the variance is very high.
 categories: [Stochastic Optimization, Monte Carlo Simulation, Markov Chain Process]
 ---
 
 
 # Snakes and Ladders: Simulation, Markov Chains, and Board Design
 
-Lately, my son has been obsessed with the game of Snakes and Ladders. So much so that he made it a mission to win the game first before he does any thing else. Watching him play so many games, I got curious about the game mechanics and design. In this post I explored questions like - what is the range number of turns in a game, what a boring Snakes and Ladders board with extremely low variance would look like, and conversely, how to mathematically design a chaotic board where the variance is off the charts.
+Lately, my son has been obsessed with the game of Snakes and Ladders. So much so that he made it a mission to win the game first before he does any thing else. Watching him play so many games, I got curious about the game mechanics and design. In this post I explored questions like - what is the expected number of turns in a game, what a boring Snakes and Ladders board with extremely low variance would look like, and conversely, how to mathematically design a chaotic board where the variance is very high.
 
 ## Simulating a Game
 
